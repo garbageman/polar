@@ -1,0 +1,10 @@
+{
+  "name": "AsyncComponent",
+  "version": "1.0.0",
+  "private": true,
+  "main": "AsyncComponent.js",
+  "dependencies": {
+    "react": "*"
+  },
+  "sideEffects": false
+}
