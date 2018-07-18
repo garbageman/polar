@@ -9,7 +9,10 @@ export default class HomePage extends Component {
       <div>
         <Navbar inverse>
           <Navbar.Header>
-            Polar
+            <Navbar.Brand>
+              Polar
+            </Navbar.Brand>
+            <Navbar.Toggle />
           </Navbar.Header>
           <Navbar.Collapse>
             <Button> Sign In </Button>
